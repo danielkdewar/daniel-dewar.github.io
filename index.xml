@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Dewar — Founder. Sound designer. Writer.</title>
-    <link>http://example.org/</link>
+    <link>http://daniel-dewar.com/</link>
     <description>Recent content on Daniel Dewar — Founder. Sound designer. Writer.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 May 2017 16:51:15 +1000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://daniel-dewar.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Music Audio Works</title>
-      <link>http://example.org/music-audio-works/</link>
+      <link>http://daniel-dewar.com/music-audio-works/</link>
       <pubDate>Sat, 27 May 2017 16:51:15 +1000</pubDate>
       
-      <guid>http://example.org/music-audio-works/</guid>
+      <guid>http://daniel-dewar.com/music-audio-works/</guid>
       <description> Stream or download selected works from your favourite music store below.
 Ambient Works Vol One Tidal
 Spotify
@@ -32,10 +32,10 @@ Back to Home
     
     <item>
       <title>Production Credits</title>
-      <link>http://example.org/production-credits/</link>
+      <link>http://daniel-dewar.com/production-credits/</link>
       <pubDate>Sat, 27 May 2017 16:51:15 +1000</pubDate>
       
-      <guid>http://example.org/production-credits/</guid>
+      <guid>http://daniel-dewar.com/production-credits/</guid>
       <description>Blue Morning (sound design, edit, mix)
 2015; short, Dir. Daniel Dewar
 Andy A (sound edit, mix, re-record mix)
@@ -51,19 +51,19 @@ When I Walk (sound designer)</description>
     
     <item>
       <title>Seen, Read, Listened 2016</title>
-      <link>http://example.org/seen-read-listened-2016/</link>
+      <link>http://daniel-dewar.com/seen-read-listened-2016/</link>
       <pubDate>Sat, 27 May 2017 16:51:15 +1000</pubDate>
       
-      <guid>http://example.org/seen-read-listened-2016/</guid>
+      <guid>http://daniel-dewar.com/seen-read-listened-2016/</guid>
       <description>Guide  All caps, bold: MOVIE All caps: TV SERIES All caps, italics: LITERATURE All italics: Music All italics, quotation marks: &amp;ldquo;Live concert&amp;ldquo; Quotation marks: &amp;ldquo;Play&amp;rdquo;  January .01. THE X-FILES — S02 (&amp;ldquo;Little Green Men&amp;rdquo;) .01. SOUTH PARK — S18 (&amp;ldquo;The Cissy&amp;rdquo;, &amp;ldquo;Handicar&amp;rdquo;) .02. THE X-FILES — S02 (&amp;ldquo;The Host&amp;rdquo;) .02. BRIDGE OF SPIES .02. SOUTH PARK — S18 (&amp;ldquo;The Magic Bush&amp;rdquo;) .03. THE X-FILES — S02 (&amp;ldquo;Blood&amp;rdquo;) .</description>
     </item>
     
     <item>
       <title>Seen, Read, Listened 2017</title>
-      <link>http://example.org/seen-read-listened-2017/</link>
+      <link>http://daniel-dewar.com/seen-read-listened-2017/</link>
       <pubDate>Sat, 27 May 2017 16:51:15 +1000</pubDate>
       
-      <guid>http://example.org/seen-read-listened-2017/</guid>
+      <guid>http://daniel-dewar.com/seen-read-listened-2017/</guid>
       <description>Guide  All caps, bold: MOVIE All caps: TV SERIES All caps, italics: LITERATURE All italics: Music All italics, quotation marks: &amp;ldquo;Live concert&amp;ldquo; Quotation marks: &amp;ldquo;Play&amp;rdquo;  January .01. THE FITS
 .01. THE THING
 .02. STAR WARS: EPISODE III - REVENGE OF THE SITH
@@ -80,10 +80,10 @@ When I Walk (sound designer)</description>
     
     <item>
       <title>Home</title>
-      <link>http://example.org/home/</link>
+      <link>http://daniel-dewar.com/home/</link>
       <pubDate>Sat, 27 May 2017 14:59:27 +1000</pubDate>
       
-      <guid>http://example.org/home/</guid>
+      <guid>http://daniel-dewar.com/home/</guid>
       <description>About
 Daniel Dewar is a writer and sound designer currently working at global data &amp;amp; analytics agency, Datalicious.
 After working as a freelance record and mix engineer while completing a Bachelor of Sound Engineering, Daniel moved to New York City and worked in film &amp;amp; television as a sound editor and designer, the creative history and work of his peers influencing his sonic and professional choices.
