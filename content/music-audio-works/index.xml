@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music &amp; Audio Works on Daniel Dewar</title>
+    <link>http://example.org/content/music-audio-works/</link>
+    <description>Recent content in Music &amp; Audio Works on Daniel Dewar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 May 2017 15:20:44 +1000</lastBuildDate>
+    
+	<atom:link href="http://example.org/content/music-audio-works/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

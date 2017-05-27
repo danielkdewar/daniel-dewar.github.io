@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seen-read-listeneds on Daniel Dewar</title>
+    <link>http://example.org/seen-read-listened/</link>
+    <description>Recent content in Seen-read-listeneds on Daniel Dewar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 May 2017 14:59:27 +1000</lastBuildDate>
+    
+	<atom:link href="http://example.org/seen-read-listened/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seen, read, listened 2017</title>
+      <link>http://example.org/content/seen-read-listened/2017/</link>
+      <pubDate>Sat, 27 May 2017 14:59:27 +1000</pubDate>
+      
+      <guid>http://example.org/content/seen-read-listened/2017/</guid>
+      <description>Guide
+All caps, bold: MOVIE
+All caps: TV SERIES
+All caps, italics: LITERATURE
+All italics: Music
+All italics, quotation marks: &amp;ldquo;Live concert&amp;rdquo;
+Quotation marks: &amp;ldquo;Play&amp;rdquo;
+January
+ THE FITS
+ THE THING
+ STAR WARS: EPISODE III - REVENGE OF THE SITH
+ THE SHINING
+ CREEPY
+ LITTLE SISTER
+ LITTLE SISTER
+ MOONLIGHT
+ THE CONJURING 2
+ TONI ERDMANN
+ CHRISTINE (1983)
+ DANCE GIRL, DANCE
+ LA LA LAND</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/content/seen-read-listened/2016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/content/seen-read-listened/2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

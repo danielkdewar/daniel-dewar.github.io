@@ -13,7 +13,7 @@ body {
 }
 
 .slogo {
-  max-width:75px;
+  max-width:55px;
 }
 
 #header {
@@ -104,6 +104,21 @@ hr {
   margin-top: 2em;
 }
 
+#article
+a:link,
+a:active,
+a:visited {
+    color: #000;
+    text-decoration:none;
+    border-bottom:1px solid #ff2e88;
+}
+
+#article
+a:hover {
+  background-color:#ff2e88;
+  color:#fff;
+}
+
 .sidebar {
   line-height: 1.5;
   font-family: 'Roboto', 'Open Sans', serif;
@@ -127,7 +142,14 @@ h6 {
 }
 
 #article p, #article ol li, #article ul li {
-  text-align: justify;
+  text-align: left;
+}
+
+@media only screen and (max-device-width: 480px) {
+  #article p, #article ol li, #article ul li {
+  padding-left: 25px;
+  padding-right: 40px;
+}
 }
 
 #article blockquote {
@@ -260,6 +282,7 @@ ul.pagination {
   #article {
     width: 576px;
     position: relative;
+    padding-bottom: 50px;
   }
 
   #summary {
@@ -269,4 +292,13 @@ ul.pagination {
     left: 690px;
     width: 342px;
   }
+    #summary a {
+      color:#000;
+      text-decoration: none;
+    }
+
+    .seen {
+      font-size:  14px;
+      line-height: 2;
+    }
 }
