@@ -145,13 +145,6 @@ h6 {
   text-align: left;
 }
 
-@media only screen and (max-device-width: 480px) {
-  #article p, #article ol li, #article ul li {
-  padding-left: 25px;
-  padding-right: 40px;
-}
-}
-
 #article blockquote {
   font-family: 'Lora', serif;
   font-style: italic;
