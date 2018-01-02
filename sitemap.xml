@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://daniel-dewar.com/seen-read-listened-2018/</loc>
-    <lastmod>2018-01-01T16:51:15+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://daniel-dewar.com/music-audio-works/</loc>
     <lastmod>2017-05-27T16:51:15+10:00</lastmod>
   </url>
@@ -33,13 +28,18 @@
   </url>
   
   <url>
+    <loc>http://daniel-dewar.com/seen-read-listened-2018/</loc>
+    <lastmod>2017-01-01T16:51:15+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://daniel-dewar.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://daniel-dewar.com/</loc>
-    <lastmod>2018-01-01T16:51:15+10:00</lastmod>
+    <lastmod>2017-05-27T16:51:15+10:00</lastmod>
     <priority>0</priority>
   </url>
   
