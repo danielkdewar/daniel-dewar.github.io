@@ -3,9 +3,14 @@
 html,
 body {
   background: #fff;
-  color: #333;
-  font-family: 'Roboto', 'Open Sans', sans-serif;
+  color: #323144;
+  font-family: 'Fira Sans Condensed', 'Fira Sans', 'Roboto', 'Open Sans', sans-serif;
   line-height: 1.5;
+  font-weight: 300;
+}
+
+strong, b {
+  font-weight:500;
 }
 
 #container {
@@ -121,11 +126,12 @@ a:hover {
 
 .sidebar {
   line-height: 1.5;
-  font-family: 'Roboto', 'Open Sans', serif;
+  font-family: 'Fira Sans Condensed', 'Fira Sans', 'Roboto', 'Open Sans', serif;
+  font-weight: 300;
 }
 
 h1 {
-  font-family: 'Roboto', 'Open Sans', serif;
+  font-family: 'Fira Sans Condensed', 'Fira Sans','Roboto', 'Open Sans', serif;
   font-size: 18px;
   font-weight: 400;
   margin-top:1.75em;
