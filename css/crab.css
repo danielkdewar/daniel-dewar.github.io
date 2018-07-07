@@ -51,7 +51,7 @@ a:hover {
 
 #site-slogan,
 #footer {
-  color: #777;
+  color: #7d93b2;
 }
 
 #site-slogan {
@@ -98,7 +98,7 @@ nav a:hover {
 #content,
 #footer,
 hr {
-  border-top: 1px dashed #aaa;
+  border-top: 1px dashed #7d93b2;
 }
 
 #content {
@@ -297,7 +297,7 @@ ul.pagination {
     }
 
     .seen {
-      font-size:  14px;
+      font-size:  13px;
       line-height: 2;
     }
 }
